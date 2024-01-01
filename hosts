@@ -88,3 +88,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.redditinc.com
 0.0.0.0 www.redditmedia.com
 0.0.0.0 www.redditstatic.com
+
+# Firefox DNS over HTTPS (DoH) -- https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
+0.0.0.0 use-application-dns.net
